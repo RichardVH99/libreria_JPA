@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="UTN-3Semestre">
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/EGG/libreria_JPA/src/libreria_JPA/Main.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/EGG/libreria_JPA/src/entidades/Editorial.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/EGG/libreria_JPA/src/entidades/Libro.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/EGG/libreria_JPA/src/servicios/MenuServicios.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/EGG/libreria_JPA/src/servicios/AutorServicio.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/EGG/libreria_JPA/src/entidades/Autor.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/EGG/libreria_JPA/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/EGG/libreria_JPA/src/servicios/GestorServicio.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/EGG/libreria_JPA/src/servicios/EditorialServicio.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/EGG/libreria_JPA/src/servicios/LibroServicio.java</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/src/servicios/AutorServicio.java</file>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/build/generated-sources/ap-source-output/entidades/Libro_.java</file>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/src/libreria_JPA/Main.java</file>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/src/entidades/Autor.java</file>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/src/servicios/LibroServicio.java</file>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/build/generated-sources/ap-source-output/entidades/Editorial_.java</file>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/build/generated-sources/ap-source-output/entidades/Autor_.java</file>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/src/servicios/GestorServicio.java</file>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/src/entidades/Editorial.java</file>
+            <file>file:/C:/Users/54280/Downloads/jpa%20ejercicios/libreria_JPA/src/entidades/Libro.java</file>
+        </group>
+    </open-files>
+</project-private>
